@@ -1,0 +1,68 @@
+
+footer
+{    
+	height:200px;
+	background-color: #480032;
+	width: 100%;
+}
+
+footer h3
+{
+	text-align:center;
+	color:white;
+	background-color:#563D7C;
+}
+h1
+{
+	color:#563D7C;
+}
+
+h3
+{
+
+ color:#444444;
+}
+
+.comment
+{
+	background-color:#360527;
+	font-size:30px;
+	color:white;
+
+
+}
+
+.secur
+{
+	color:red;
+	font-size:30px;
+
+}
+.ident
+{
+	border: 2px solid #ddd;
+	padding:5px;
+	background-color: #eee;
+
+
+
+}
+.icone
+{
+	background-color:white;
+	padding-bottom:10px;
+	height:40px;
+
+}
+
+body
+{
+	background-color: #778899;
+}
+
+.video1
+{
+   position:relative;
+   bottom:15px;
+   display:block;
+}
